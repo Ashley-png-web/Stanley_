@@ -9,7 +9,7 @@ body {
      font-family: Georgia, 'Times New Roman', Times, serif;
      line-height:1.6 ;
      background-color: rgb(245, 131, 184);
-     color: rgb(243, 81, 170);
+     color: black;
 }
 
 header {
@@ -50,7 +50,7 @@ text-decoration: underline;
 
  .section h2{
  margin-bottom: 15px;
- color: hotpink;
+ color: rgb(255, 173, 214);
 }
 
 .section img {
@@ -76,7 +76,7 @@ form input, form textarea {
 
 form button {
     padding: 10px;
-    background-color: pink;
+    background-color: whitesmoke;
     color: white;
     border: none;
     cursor: pointer;
